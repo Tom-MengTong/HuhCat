@@ -1,9 +1,7 @@
 {
-    {
   "name": "A test token",
   "symbol": "TEST",
   "description": "Fully for testing purposes only",
   "image": "https://token-creator-lac.vercel.app/token_image.png"
-}
-    //"image": "https://github.com/Tom-MengTong/HuhCat/blob/4316b3adef24845aeff57da6beb8b9721858a5c6/HuhCat.jpeg"
+//"image": "https://github.com/Tom-MengTong/HuhCat/blob/4316b3adef24845aeff57da6beb8b9721858a5c6/HuhCat.jpeg"
 }
